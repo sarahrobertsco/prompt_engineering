@@ -22,6 +22,7 @@ This repository includes:
 - [Best Practices](#best-practices)
 - [Tools of the Trade](#tools-of-the-trade)
 - [Challenges and Solutions](#challenges-and-solutions)
+- [Advanced Strategies](#advanced-strategies)
 - [Collaboration and Contribution](#collaboration-and-contribution)
 - [Stay Updated](#stay-updated)
 
