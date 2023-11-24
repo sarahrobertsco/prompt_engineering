@@ -7,11 +7,8 @@ In this guide, we delve into advanced strategies for prompt engineering. These t
 ### The Art of Setting the Stage
 Contextual prompting involves framing the task for the AI, providing relevant background information and setting the tone. This technique guides the AI to better understand the task's context and purpose.
 
-#### Examples and Best Practices
-- **Customer Service Chatbots:** Embed context about the customer's query history and current issue.
-- #### Example Prompt: E-Commerce Customer Service
+#### Example Prompt: E-Commerce Customer Service
 - **Contextual Prompt:** "As a customer service assistant who has access to the customer's previous purchases and reported issues, how would you address their current concern about delayed delivery?"
-- **Creative Writing Tasks:** Set the tone, genre, and narrative style upfront.
 
 ## Sequential Prompts
 ### Building a Narrative
