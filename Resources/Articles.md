@@ -2,6 +2,7 @@
 
 ## Introduction
 Here, you'll find a curated list of articles that provide insights into the art and science of prompt engineering. Whether you're a beginner or an experienced practitioner, these resources will help deepen your understanding and enhance your skills in prompt engineering.
+For a comprehensive list of all articles related to prompt engineering, please see the excellent [Prompt Engineering Guide](https://www.promptingguide.ai/papers)
 
 ## Contents
 - [Fundamentals of Prompt Engineering](#fundamentals-of-prompt-engineering)
