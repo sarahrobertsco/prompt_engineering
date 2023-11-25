@@ -62,6 +62,7 @@ Tackle common and not-so-common hurdles:
 
 Dive deep into complex prompt design, analysis, and iteration techniques with these advanced articles:
 
+- [Advanced Psychological Theories and AI](Advanced-Strategies/Advanced-Psychological-Theories.md)
 - [Analyzing Prompt Responses with AI Tools](Advanced-Strategies/Analyzing-Prompt-Responses-with-AI-Tools.md)
 - [Complex Prompt Construction Techniques](Advanced-Strategies/Complex%20Prompt-Construction-Techniques.md)
 - [Ethical Considerations](Advanced-Strategies/Ethical-Considerations.md)
