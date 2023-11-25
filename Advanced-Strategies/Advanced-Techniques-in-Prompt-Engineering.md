@@ -41,4 +41,4 @@ Complex prompts go beyond basic questions or instructions. They often involve mu
 
 ---
 
-Ready to put these techniques into practice? Explore the [Prompt Testing and Iteration](Testing-and-Iterating/README.md) guide for tips on how to refine your complex prompts.
+Ready to put these techniques into practice? Explore the [Iterative Prompt Refinement Processes](Advanced-Strategies/Iterative-Prompt-Refinement-Processes.md) guide for tips on how to refine your complex prompts.
