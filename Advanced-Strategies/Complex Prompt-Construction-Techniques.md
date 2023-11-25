@@ -24,37 +24,19 @@ Complex prompts go beyond basic questions or instructions. They often involve mu
 - **Overview**: These prompts provide context or background information to steer the AI in a specific direction.
 - **Example**: "Given that Mars colonization is advancing, hypothesize about the potential political systems that could emerge."
 
-## Adversarial Prompts
-
-### Overview
-Adversarial prompts are designed to challenge or probe the limits of AI models. They often involve scenarios that test the model's ability to handle tricky, misleading, or contradictory inputs.
-
-<details>
-<summary>Examples and Best Practices</summary>
-
-- **Example**: "Explain why 2+2 equals 5, assuming a hypothetical mathematical system where this is true."
+### 5. Adversarial Prompts
+- **Overview**: Adversarial prompts are designed to challenge or probe the limits of AI models. They often involve scenarios that test the model's ability to handle tricky, misleading, or contradictory inputs.
+- **Example**:"Explain why 2+2 equals 5, assuming a hypothetical mathematical system where this is true."
 - **Best Practices**: Use these prompts cautiously, ensuring they align with ethical guidelines and do not compromise the model's integrity.
 
-</details>
-
-## Emotional Prompts
-
-### Overview
-Emotional prompts are crafted to either generate responses with a specific emotional tone or to recognize and respond appropriately to emotional cues in the input.
-
-<details>
-<summary>Examples and Best Practices</summary>
-
-- **Example**: "Write a comforting message for someone who has just experienced a personal loss."
+### 6. Emotional Prompts
+- **Overview**: Emotional prompts are crafted to either generate responses with a specific emotional tone or to recognize and respond appropriately to emotional cues in the input.
+- **Example**:""Write a comforting message for someone who has just experienced a personal loss."
 - **Best Practices**: Be sensitive to the context and potential impact of emotional prompts, especially when dealing with sensitive topics.
 
-</details>
-
-### 5. Nuanced Language Use
+### 7. Nuanced Language Use
 - **Overview**: Utilizing subtle language variations to achieve specific tones or styles.
 - **Example**: "Write a product description that conveys excitement and innovation, focusing on its futuristic aspects."
-
-  </details>
 
 ## Best Practices in Complex Prompt Design
 
@@ -74,55 +56,3 @@ Mastering complex prompt construction opens up a world of possibilities in AI in
 ---
 
 Ready to put these techniques into practice? Explore the [Prompt Testing and Iteration](Testing-and-Iterating/README.md) guide for tips on how to refine your complex prompts.
-
-## Techniques for Constructing Complex Prompts
-
-<details>
-<summary>Conditional Prompts</summary>
-
-### Overview
-Prompts that include conditions to guide the AI's response.
-
-- **Example**: "If it's raining, describe indoor activities suitable for children; otherwise, suggest outdoor activities."
-
-</details>
-
-<details>
-<summary>Chained Prompts</summary>
-
-### Overview
-A series of interconnected prompts that build upon each other.
-
-- **Example**: "First, write a summary of the latest tech news. Then, based on that summary, list potential impacts on the stock market."
-
-</details>
-
-<details>
-<summary>Multi-part Prompts</summary>
-
-### Overview
-Prompts containing several parts, each requiring a different type of response.
-
-- **Example**: "Part A: Outline the main features of quantum computing. Part B: Compare these features to classical computing."
-
-</details>
-
-<details>
-<summary>Contextual Prompts</summary>
-
-### Overview
-Prompts providing context or background information to steer the AI in a specific direction.
-
-- **Example**: "Given that Mars colonization is advancing, hypothesize about the potential political systems that could emerge."
-
-</details>
-
-<details>
-<summary>Nuanced Language Use</summary>
-
-### Overview
-Utilizing subtle language variations to achieve specific tones or styles.
-
-- **Example**: "Write a product description that conveys excitement and innovation, focusing on its futuristic aspects."
-
-</details>
