@@ -79,6 +79,11 @@ Join the conversation and contribute:
 - [Discussion Forum](https://github.com/YourUsername/prompt-engineering/discussions)
 - [Upcoming Events](Collaboration/Upcoming-Events.md)
 
+## Resource Library
+A curated collection of articles, papers, tools, and talks on prompt engineering.
+
+ - [Articles](Resources/Articles.md)
+
 ## Stay Updated
 
 Don't miss out on updates and new insights:
