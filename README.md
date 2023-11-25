@@ -1,6 +1,7 @@
 # The Art of Prompt Engineering
 
-Welcome to my guide to Prompt Engineering 👋 — what I love is that prompt engineering is the sweet spot between linguistics, psychology, and artificial intelligence. This repository is a living document, suitable for both aspiring prompt engineers and seasoned professionals looking to deepen their expertise.
+Welcome to my guide to Prompt Engineering 👋 — what I love is that prompt engineering is the sweet spot between linguistics, psychology, and artificial intelligence which is like a puzzle: which words can I use to elicite the desired response from AI? It's programming in words.
+This repository is a living document, suitable for both aspiring prompt engineers and seasoned professionals looking to deepen their expertise.
 
 ## About Prompt Engineering
 
