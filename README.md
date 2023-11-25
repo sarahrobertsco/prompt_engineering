@@ -62,7 +62,7 @@ Tackle common and not-so-common hurdles:
 
 Dive deep into complex prompt design, analysis, and iteration techniques with these advanced articles:
 
-- [Analyzing Prompt Responses with AI Tools](Advanced-Strategies/Analysing-Prompt-Responses-with-AI-Tools.md)
+- [Analyzing Prompt Responses with AI Tools](Advanced-Strategies/Advanced-Techniques-in-Prompt-Engineering.md)
 - [Complex Prompt Construction Techniques](Advanced-Strategies/Complex-Prompt-Construction-Techniques.md)
 - [Ethical Considerations](Advanced-Strategies/Ethical-Considerations.md)
 - [Handling Ambiguity and Uncertainty in AI Responses](Advanced-Strategies/Handling-Ambiguity-and-Uncertainty-in-AI-Responses.md)
