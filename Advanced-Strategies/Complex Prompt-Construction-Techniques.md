@@ -27,12 +27,10 @@ Complex prompts go beyond basic questions or instructions. They often involve mu
 ### 5. Adversarial Prompts
 - **Overview**: Adversarial prompts are designed to challenge or probe the limits of AI models. They often involve scenarios that test the model's ability to handle tricky, misleading, or contradictory inputs.
 - **Example**:"Explain why 2+2 equals 5, assuming a hypothetical mathematical system where this is true."
-- **Best Practices**: Use these prompts cautiously, ensuring they align with ethical guidelines and do not compromise the model's integrity.
 
 ### 6. Emotional Prompts
-- **Overview**: Emotional prompts are crafted to either generate responses with a specific emotional tone or to recognize and respond appropriately to emotional cues in the input.
-- **Example**:""Write a comforting message for someone who has just experienced a personal loss."
-- **Best Practices**: Be sensitive to the context and potential impact of emotional prompts, especially when dealing with sensitive topics.
+- **Overview**: Emotional prompts are crafted to either generate responses with a specific emotional tone or to recognize and respond appropriately to emotional cues in the input. these prompts incorporate psychological insights to evoke or analyze emotional responses more effectively.
+- **Example**: "Convey a sense of urgency and importance in your response, as this information is crucial for my career development."
 
 ### 7. Nuanced Language Use
 - **Overview**: Utilizing subtle language variations to achieve specific tones or styles.
