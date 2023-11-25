@@ -7,6 +7,8 @@ Advanced prompt engineering involves creating prompts that are not only effectiv
 Complex prompts go beyond basic questions or instructions. They often involve multiple components, require a deep understanding of the AI model's capabilities, and leverage a nuanced use of language to guide the model towards desired outputs.
 
 ## Techniques for Constructing Complex Prompts
+<details>
+<summary>Techniques for Constructing Complex Prompts</summary>
 
 ### 1. Conditional Prompts
 - **Overview**: These prompts include conditions that guide the AI’s response.
@@ -27,6 +29,8 @@ Complex prompts go beyond basic questions or instructions. They often involve mu
 ### 5. Nuanced Language Use
 - **Overview**: Utilizing subtle language variations to achieve specific tones or styles.
 - **Example**: "Write a product description that conveys excitement and innovation, focusing on its futuristic aspects."
+
+  </details>
 
 ## Best Practices in Complex Prompt Design
 
