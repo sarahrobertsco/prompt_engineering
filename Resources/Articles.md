@@ -8,7 +8,7 @@ For a comprehensive list of all articles related to prompt engineering, please s
 - [Fundamentals of Prompt Engineering](#fundamentals-of-prompt-engineering)
 - [Advanced Techniques](#advanced-techniques)
 - [Psychology](#psychology)
-- [Ethical Considerations](#ethical-considerations)
+- [Healthcare](#healthcare)
 
 ## Fundamentals of Prompt Engineering
 ### Articles
@@ -25,10 +25,10 @@ For a comprehensive list of all articles related to prompt engineering, please s
 1. [Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)) - Emotional Prompting significantly boosts the performance of generative tasks.
 2. [Knowing me, knowing you: theory of mind in AI](https://www.cambridge.org/core/journals/psychological-medicine/article/knowing-me-knowing-you-theory-of-mind-in-ai/C935A66A018117BA5B1991071393655F) - Hot Cognition is the ability of the human mind to attribute mental states to others, can this be leveraged in AI?
 
-## Ethical Considerations
+## Healthcare
 ### Articles
-1. [Ethical Implications of Prompt Engineering](URL) - A discussion on the ethical dimensions of influencing AI behavior.
-2. [Responsible Use of Prompts in AI](URL) - Best practices for ensuring ethical use of prompt engineering.
+1. [Finding the sweet spot: a qualitative study exploring patients’ acceptability of chatbots in genetic service delivery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9838385/) - Insights into patients’ comfort with and perceived limitations of chatbots for genomic medicine 
+2. 
 
 ---
 
