@@ -24,15 +24,28 @@ Complex prompts go beyond basic questions or instructions. They often involve mu
 - **Overview**: These prompts provide context or background information to steer the AI in a specific direction.
 - **Example**: "Given that Mars colonization is advancing, hypothesize about the potential political systems that could emerge."
 
-### 5. Adversarial Prompts
+### 5. In-context Learning (ICL)
+ - **Overview**: Preceding a test question with several different examples of questions and desired results. ICL does
+not require updating model parameters but can offer effects similar to fine-tuning. The choice of examples used in few-shot prompting can substantially influence model performance.
+ - **Example**: "Here are three examples of converting temperatures from Celsius to Fahrenheit. Now, convert 20 degrees Celsius to Fahrenheit."
+
+### 6. Chain of Thought
+ - **Overview**: This approach involves guiding the AI to articulate intermediate reasoning steps before presenting the final answer. By decomposing complex queries into smaller, manageable parts, the Chain of Thought (CoT) method helps the model to generate more precise responses.
+ - **Example**:  "To calculate the total cost, first determine the price per item, then multiply by the number of items."
+
+### 7. Ensembling
+ - **Overview**:  Ensembling combines the outputs of multiple model runs to achieve a more reliable or accurate conclusion. This technique can involve averaging, consensus-building, or majority voting. A variant, known as self-consistency, employs sampling methods to generate several outputs, which are then synthesised to determine a consensus.
+ - **Example**: "Run the same question through the model three times and use the most common answer among the three as the final response."
+
+### 8. Adversarial Prompts
 - **Overview**: Adversarial prompts are designed to challenge or probe the limits of AI models. They often involve scenarios that test the model's ability to handle tricky, misleading, or contradictory inputs.
 - **Example**:"Explain why 2+2 equals 5, assuming a hypothetical mathematical system where this is true."
 
-### 6. Emotional Prompts
+### 9. Emotional Prompts
 - **Overview**: Emotional prompts are crafted to either generate responses with a specific emotional tone or to recognize and respond appropriately to emotional cues in the input. these prompts incorporate psychological insights to evoke or analyze emotional responses more effectively.
 - **Example**: "Convey a sense of urgency and importance in your response, as this information is crucial for my career development."
 
-### 7. Nuanced Language Use
+### 10. Nuanced Language Use
 - **Overview**: Utilizing subtle language variations to achieve specific tones or styles.
 - **Example**: "Write a product description that conveys excitement and innovation, focusing on its futuristic aspects."
 
