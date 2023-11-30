@@ -30,7 +30,7 @@ not require updating model parameters but can offer effects similar to fine-tuni
  - **Example**: "Here are three examples of converting temperatures from Celsius to Fahrenheit. Now, convert 20 degrees Celsius to Fahrenheit."
 
 ### 6. Chain of Thought
- - **Overview**: This approach involves guiding the AI to articulate intermediate reasoning steps before presenting the final answer. By decomposing complex queries into smaller, manageable parts, the Chain of Thought (CoT) method helps the model to generate more precise responses.
+ - **Overview**: This approach involves guiding the AI to articulate intermediate reasoning steps before presenting the final answer. By decomposing complex queries into smaller, manageable parts, the Chain of Thought (CoT) method helps the model to generate more precise responses. It uses natural language statements, such as “Let’s think step by step,” to explicitly encourage the AI to generate a series of intermediate reasoning steps. 
  - **Example**:  "To calculate the total cost, first determine the price per item, then multiply by the number of items."
 
 ### 7. Ensembling
