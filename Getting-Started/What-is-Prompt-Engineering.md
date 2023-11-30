@@ -19,8 +19,10 @@ Prompt engineering is essential because even the most advanced AI models require
 3. **Creativity**: Sometimes the most effective prompts are not straightforward but involve thinking outside the box to elicit the best response.
 
 4. **Iterative Approach**: Prompt engineering often involves an iterative process of refinement, requiring testing and tweaking to perfect the prompts.
+   
+6. **Few-shot learning** is arguably the most effective [in-context learning method](/Advanced-Strategies/Complex Prompt-Construction/Techniques.md). With the prompting approach, through a few demonstrations, foundation models quickly adapt to a specific domain and learn to follow the task format.
 
-5. **Ethics**: Ethical considerations are at the forefront of prompt engineering, as the way we interact with AI can have larger implications for society.
+7. **Ethics**: Ethical considerations are at the forefront of prompt engineering, as the way we interact with AI can have larger implications for society.
 
 ## Applications of Prompt Engineering
 
