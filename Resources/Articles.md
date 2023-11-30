@@ -28,7 +28,8 @@ For a comprehensive list of all articles related to prompt engineering, please s
 ## Healthcare
 ### Articles
 1. [Finding the sweet spot: a qualitative study exploring patients’ acceptability of chatbots in genetic service delivery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9838385/) - Insights into patients’ comfort with and perceived limitations of chatbots for genomic medicine 
-2. 
+2. [Can Generalist Foundation Models Outcompete
+Special-Purpose Tuning? Case Study in Medicine](https://arxiv.org/pdf/2311.16452.pdf) - Prompting innovation can unlock deeper specialist capabilities and show that GPT-4 easily tops prior leading results for medical question-answering datasets
 
 ---
 
