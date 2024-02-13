@@ -5,7 +5,7 @@ This repository is a living document, suitable for both aspiring prompt engineer
 
 ## About Prompt Engineering
 
-Prompt Engineering is an emerging discipline that focuses on designing inputs that elicit the desired output from AI models, particularly in natural language processing (NLP) and generative AI. As I write this, it's not quite a year (360 days) since [OpenAI released a ChatGPT demo](https://www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-how-we-got-to-where-we-are-today/?sh=3f683769674f) and yet conversational AI and advanced language models have become ubiquitous, the role of a prompt engineer is becoming pivotal in shaping the interactions between humans and machines.
+Prompt Engineering is an emerging discipline that focuses on designing inputs that to get the desired output from AI models, particularly in natural language processing (NLP) and generative AI. As I write this, it's not quite a year (360 days) since [OpenAI released a ChatGPT demo](https://www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-how-we-got-to-where-we-are-today/?sh=3f683769674f) and yet conversational AI and advanced language models have become ubiquitous, the role of a prompt engineer is becoming pivotal in shaping the interactions between humans and machines.
 
 ## What You'll Find Here
 
